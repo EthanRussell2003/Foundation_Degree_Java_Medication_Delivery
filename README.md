@@ -2,6 +2,7 @@
 
 <h2>Description</h2>
 Project consists of a simple program using Java and the basis of object-oriented programming principles to create classes to store information selected/entered by users.
+I feel it is important to note that this was a group project. The documentation was provided by my teammates. However, I was entrusted with almost all of the programming and UI design.
 <br />
 
 
